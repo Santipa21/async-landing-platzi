@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-platzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santipa21/async-landing-platzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santipa21/async-landing-platzi/issues"
+  },
+  "homepage": "https://github.com/Santipa21/async-landing-platzi#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
